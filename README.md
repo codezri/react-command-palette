@@ -22,7 +22,7 @@ yarn dev
 ```
 
 ## Credits
-This project was forked from the [Mayowa-Ojo/command-palette](https://github.com/Mayowa-Ojo/command-palette) 
+This project was forked from the [Mayowa-Ojo/command-palette](https://github.com/Mayowa-Ojo/command-palette) repository
 which was created for [this LogRocket article](https://blog.logrocket.com/react-command-palette-tailwind-css-headless-ui/). Credit goes to the original
 author [Mayowa Ojo](https://blog.logrocket.com/author/mayowa-ojo/)
 
