@@ -59,6 +59,7 @@ export const CommandPalette = ({ commands }) => {
                   onChange={(command) => {
                      // we have access to the selected command
                      // a redirect can happen here or any action can be executed
+                     console.log(command);
                      setIsOpen(false)
                   }}
                >

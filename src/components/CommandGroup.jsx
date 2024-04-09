@@ -16,7 +16,7 @@ export const CommandGroup = ({ commands, group }) => {
    return (
       <React.Fragment>
          {/* only show the header when there are commands belonging to this group */}
-         {commands.filter((command) => command.group === group).length >= 1 && (
+         {commands.some((command) => command.group === group) && (
             <div className="flex items-center h-6 flex-shrink-0 bg-accent/50">
                <span className="text-xs text-slate-100 px-3.5">{group}</span>
             </div>
