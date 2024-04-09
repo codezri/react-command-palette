@@ -16,7 +16,7 @@ Install dependencies:
 yarn
 ```
 
-Start Vite development server:
+Start the Vite development server:
 ```bash
 yarn dev
 ```
